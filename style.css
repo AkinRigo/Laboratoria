@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+     display: grid;
+     grid-template-columns: 1fr 2fr;
+     height: 500px;
+     width: 500px;
+}
+
+
+#correta{
+    background-color: green;
+    padding-left: 250px;
+    margin-left: 100px;
+     
+}
+
+#errada{
+    background-color: hotpink;
+    padding-left: 250px;
+    margin-left: 700px;
+}
