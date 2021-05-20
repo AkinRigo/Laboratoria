@@ -1,2 +1,0 @@
-# Laboratoria
-Projeto laboratoria
